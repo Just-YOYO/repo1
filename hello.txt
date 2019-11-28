@@ -1,2 +1,3 @@
 hello world
 B修改的数据
+A添加的数据
